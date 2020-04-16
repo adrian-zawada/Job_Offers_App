@@ -11,8 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'JobOfferController@index');
 
 Route::get('job-offers', 'JobOfferController@index');
