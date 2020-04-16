@@ -26,4 +26,4 @@ Now, visit http://localhost:8000 to try the demo.
 
 
 ## Screenshot
-![alt text](https://imgur.com/huJwPzG)
+![alt text](https://i.imgur.com/huJwPzG.png)
