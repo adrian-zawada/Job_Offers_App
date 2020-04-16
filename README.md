@@ -6,9 +6,13 @@ Let's install all packages, by running this command from Terminal
 ```
 composer install
 ```
-Use .env.example for creating .env file by command:
+Use .env.example for creating .env file by command(Linux, macOS):
 ```
 cp .env.example .env
+```
+or if you use Windows Distribution use:
+```
+copy .env.example .env
 ```
 Let's do make aplication key
 ```
